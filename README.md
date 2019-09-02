@@ -2,4 +2,4 @@
 
 [![Resume Preview](Resume_Screenshot.PNG)]
 
-# [Open Full Resume](<embed src="https://github.com/Aijaz-siddique/ShamsAijazSiddique_Resume/ShamsAijazSiddique_Resume.pdf" type="application/pdf" />)
+<a href="https://github.com/Aijaz-siddique/ShamsAijazSiddique_Resume/ShamsAijazSiddique_Resume.pdf" target="_blank">Open Resume</a>
